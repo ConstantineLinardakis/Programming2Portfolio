@@ -30,7 +30,8 @@ ___
 
 ## Big Java Chapter Projects
 > Everything in here is from [Big Java Early Objects 7th Edition](https://www.wiley.com/en-us/Big+Java%3A+Early+Objects%2C+7th+Edition-p-9781119499091)
-[FOLDER LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters)
+
+*[FOLDER LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters)*
 
 - Big Java Chapter 5 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/5.0%20Big%20Java%20Chapter%205%20/Project) 
 - Big Java Chapter 6 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/6.0%20Big%20Java%20Chapter%206/Project) 
