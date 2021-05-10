@@ -12,7 +12,8 @@ ___
 > This was made as a Website for people to view and see my creations, and socials. Maybe for future jobs or websites of mine.
 - Group Programming Project [JAVA](https://github.com/ConstantineLinardakis/Group-Project-7)
 > This was made as a Project with a group of people during the school year. It is a working Launchpad (Sound game).
-- 
+- Another Solo Programming Website Project [HTML,CSS,JS](https://constantinelinardakis.github.io/TwinPlayz/)
+> This was made for my Youtube, still in development but is in final stages. Consist of my main socials.
 -
 -
 -
