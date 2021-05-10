@@ -1,2 +1,13 @@
-# Programming2Portfolio
-Year 2 Portfolio
+# Programming 2 Portfolio
+___
+ *Year 2 Programming Portfolio full of my Projects I made 2020-2021.*
+ 
+ <dl>
+  <dt>HTML,CSS,JS,JAVA </dt>
+</dl>
+___
+
+#### @ Constantine Linardakis | constantinelinardakis@gmail.com
+
+ 
+
