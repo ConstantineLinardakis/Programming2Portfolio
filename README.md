@@ -30,11 +30,18 @@ ___
 
 ## Big Java Chapter Projects
 > Everything in here is from [Big Java Early Objects 7th Edition](https://www.wiley.com/en-us/Big+Java%3A+Early+Objects%2C+7th+Edition-p-9781119499091)
+[FOLDER LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters)
 
--  
-
-
-
+- Big Java Chapter 5 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/5.0%20Big%20Java%20Chapter%205%20/Project) 
+- Big Java Chapter 6 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/6.0%20Big%20Java%20Chapter%206/Project) 
+- Big Java Chapter 7 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/7.0%20%20Big%20Java%20Chapter%207/Project) 
+- Big Java Chapter 8 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/8.0%20Big%20Java%20Chapter%208/Cannonball) 
+- Big Java Chapter 9 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/9.0%20Big%20Java%20Chapter%209/Project) 
+- Big Java Chapter 10 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/10.0%20Big%20Java%20Chapter%2010/Project) 
+- Big Java Chapter 11 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/11.0%20Big%20Java%20Chapter%2011/Project) 
+- Big Java Chapter 13 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/13.0%20Big%20Java%20Chapter%2013/Project) 
+- Big Java Chapter 14 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/14.0%20Big%20Java%20Chapter%2014/Project) 
+- Big Java Chapter 15 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/15.0%20Big%20Java%20Chapter%2015/Project) 
 
 ___
 ### [Programming 1 Portfolio](https://github.com/ConstantineLinardakis/Programming1Portfolio)
