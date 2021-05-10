@@ -1,6 +1,7 @@
 # Programming 2 Portfolio
 ___
  *Year 2 Programming Portfolio full of my Projects I made 2020-2021.*
+> Everything in here is from [Big Java Early Objects 7th Edition](https://www.wiley.com/en-us/Big+Java%3A+Early+Objects%2C+7th+Edition-p-9781119499091)
  
  <dl>
   <dt>HTML,CSS,JS,JAVA </dt>
