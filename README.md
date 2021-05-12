@@ -33,6 +33,10 @@ ___
 
 *[FOLDER LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters)*
 
+- Big Java Chapter 1 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/1.0%20Big%20Java%20Chapter%201)
+- Big Java Chapter 2 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/2.0%20Big%20Java%20Chapter%202/Project)
+- Big Java Chapter 3 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/3.0%20Big%20Java%20Chapter%203/Project)
+- Big Java Chapter 4 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/4.0%20Big%20Java%20Chapter%204/Project)
 - Big Java Chapter 5 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/5.0%20Big%20Java%20Chapter%205%20/Project) 
 - Big Java Chapter 6 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/6.0%20Big%20Java%20Chapter%206/Project) 
 - Big Java Chapter 7 [PROJECT LINK](https://github.com/ConstantineLinardakis/Programming2Portfolio/tree/main/Projects/BigJavaChapters/7.0%20%20Big%20Java%20Chapter%207/Project) 
