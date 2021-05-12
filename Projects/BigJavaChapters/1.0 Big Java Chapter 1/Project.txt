@@ -1,0 +1,40 @@
+import java.util.Scanner;
+
+public class Main{
+	public static void main(String[] args){	
+    System.out.println("Hello welcome. Today we will calculate if it is faster to take the car or the train from your house to your work.");
+    Scanner scan = new Scanner(System.in);
+    //Letting the user know what they have.
+    System.out.println("We will start off by talking about the amounts we already know. It takes around 20 gallons, we also know the total distance in miles from your house to work was 35 miles away. The gas cost is 4$ per gallon, and the car maintenance cost is 5 cents. The one way ticket for the train is also 4$. ");
+
+    //Double the cost of everything.
+		double mpg, carCost, trainCost, gasCost, carMaintCost;
+    
+    //Calling the Distance.
+		int distance;
+
+    //Setting the variables.
+		mpg = 20;
+		distance = 35;
+		trainCost = 4 * 2;
+		gasCost = 4.00;
+		carMaintCost = .05;
+	
+    //Displaying the total's.
+		carCost = ((distance/mpg) * (gasCost)) + (distance * carMaintCost);
+		System.out.println("Your Total Car Cost Was : " + carCost + "$");
+		System.out.println("Your Total Train Ticket Cost Was : " + trainCost + "$");
+
+    if (carCost < trainCost){
+      System.out.println("The best way to get to your work is by using the car.");
+    } else {
+      System.out.println("The best way to get to your work is by using the train.");
+    }
+  } 
+}
+
+// Made by Constantine Linardakis
+// PNAME : Train or Car?
+// Project 1 - You want to decide whether you should drive your car to work or take the train. You know the one-way distance from your home to your place of work, and the fuel efficiency of your car( in miles per gallon). You also know the one-way price of a train ticket. You assume the cost of gas at $4 per gallon, and car maintenance at 5 cents per mile. Write an algorithm to decide which commute it cheaper.
+
+// Sep.9th.2020
